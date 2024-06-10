@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(187, 187, 187);
+}
+p {
+    font-weight: 700;
+}
+.tdd {
+    font-style: italic;
+}
+.container{
+    background-color: gray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
